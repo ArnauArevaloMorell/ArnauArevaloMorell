@@ -126,7 +126,7 @@ I’ve had the opportunity to work and study across **London, Barcelona, Shangha
   - Current **character stats and skill descriptions**.  
 - **Save & Load** functionality to persist progress.
 
-> Repository: *Add the GitHub repo link here once public*
+> Repository: (https://github.com/EricAmargantGutierrez/EDA2)
 
 ---
 
@@ -203,7 +203,6 @@ These are projects I plan to build and document, primarily in **Python** and **M
 - **Programming:** Python, C/C++, MATLAB  
 - **Data & Visualization:** Power BI, Excel  
 - **Finance & Standards:** FpML (XML), ISDA CDM  
-- **Methods:** Monte Carlo simulation, basic optimization, statistical modeling, network science concepts
 
 ---
 

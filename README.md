@@ -1,12 +1,6 @@
-<!-- Banner (optional). Replace ./banner.png with your own image or remove this block -->
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Arnau Arevalo Banner"/>
-</p>
-
 # Arnau Arévalo Morell
 
-**Mathematical Engineering in Data Science @ UPF**  
-**Quantitative Trading & Financial Engineering Enthusiast**
+**Mathematical Engineering in Data Science @ UPF & UT Austin | GS EMEA Trading Academy | Co-Founder @ UPF 180DC & UPF EHub**  
 
 ---
 

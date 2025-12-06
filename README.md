@@ -14,7 +14,7 @@ My interests lie at the intersection of:
 - **Stochastic modeling & Monte Carlo methods**  
 - **Sectors: Pharma, Finance, Sports**
 
-I’ve had the opportunity to work and study across **London, Barcelona, Shanghai, Paris, Mexico City**, and more — combining technical depth with an international perspective on markets and organizations.
+I’ve had the opportunity to work and study across **London, Barcelona, Shanghai, Paris, Mexico City**, and more, combining technical depth with an international perspective on markets and organizations.
 
 ---
 

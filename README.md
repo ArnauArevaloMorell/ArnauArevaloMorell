@@ -1,6 +1,6 @@
 # Arnau Arévalo Morell
 
-**Mathematical Engineering in Data Science @ UPF & UT Austin | GS EMEA Trading Academy | Co-Founder @ UPF 180DC & UPF EHub**  
+**Mathematical Engineering in Data Science @ UPF & UT Austin | Quant Trader @ Santander CIB | GS EMEA Trading Academy | Co-Founder @ UPF 180DC & UPF EHub**  
 
 ---
 

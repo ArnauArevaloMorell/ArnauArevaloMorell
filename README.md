@@ -1,202 +1,169 @@
 # Arnau Arévalo Morell
 
-**Mathematical Engineering in Data Science @ UPF & UT Austin | Quant Trader @ Santander CIB | GS EMEA Trading Academy | Co-Founder @ UPF 180DC & UPF EHub**  
+**Mathematical Engineering in Data Science @ UPF & UT Austin | Credit Quant @ Santander CIB | Co-Founder @ UPF Engineering Hub**
 
 ---
 
 ## Overview
 
-I am a Mathematical Engineering student specializing in **Data Science** at **Universitat Pompeu Fabra (UPF)** and an exchange student at the **University of Texas at Austin**.  
+I am a Mathematical Engineering student specializing in **Data Science** at **Universitat Pompeu Fabra (UPF)** and an exchange student at **The University of Texas at Austin**.
 
 My interests lie at the intersection of:
 
-- **Quantitative trading & market microstructure**  
-- **Stochastic modeling & Monte Carlo methods**  
-- **Sectors: Pharma, Finance, Sports**
+* **Quantitative trading & derivatives**
+* **Stochastic modeling & Monte Carlo methods**
+* **Machine learning for financial markets**
+* **Market microstructure & systematic strategies**
 
-I’ve had the opportunity to work and study across **London, Barcelona, Shanghai, Paris, Mexico City**, and more, combining technical depth with an international perspective on markets and organizations.
+I enjoy building pricing models, trading systems, and data-driven tools that sit close to real markets and real decision-making.
 
 ---
 
 ## Experience
 
-### Goldman Sachs – FICC & Equities Trading Academy  
-**London, United Kingdom — Oct 2025 – Nov 2025**
+### Santander CIB — Credit Quant Intern, Global Markets
 
-- Selected to join an exclusive multi-day academy in **FICC & Equities trading**.  
-- Exposed to **advanced trading strategies, risk frameworks, and trading simulations**.
+**Madrid, Spain — June 2026 – August 2026**
 
-### TradeHeader – Consulting Intern  
-**Barcelona, Spain — Sept 2025 – Dec 2025**
+* Built an **end-to-end pricing and calibration library** for single-name CDS, CDS indices, forward CDS indices, and index default swaptions.
+* Benchmarked pricing against **Bloomberg CDSW/CDSO**, achieving **sub-1% premium deviations** on identical market data.
+* Engineered a **bump-and-revalue risk engine** computing first- and higher-order sensitivities including **CS01, IR01, Delta, Vega, and Gamma**.
+* Calibrated an **arbitrage-free implied volatility surface** for index swaptions across strikes and maturities.
 
-- Developed software tools to **standardize complex financial products**, working with **FpML** and **CDM**.  
-- Supported client advisory projects involving structured products and data workflows.
+### TradeHeader — Software Development Intern
 
-### Boehringer Ingelheim – Supply Chain Management Intern  
-**Shanghai, China — Jul 2025 – Sept 2025**
+**Barcelona, Spain — September 2025 – December 2025**
 
-- Designed and implemented a **constraint-based Monte Carlo simulation** to minimize material expiration losses.  
-  - Backtesting indicated a **+60% reduction in expiration-related costs**.  
-- Automated multi-sheet workflows using **Python** and **Power BI**, significantly reducing manual reporting time.
+* Developed an **LLM-powered agent** parsing OTC derivatives in **FpML**, validating against **ISDA CDM**, and generating natural-language trade explanations.
+* The system is now **live in production**, generating **hundreds of published trade descriptions** on TradeHeader’s platform.
 
-### Insight Events – Bank of America, JP Morgan Chase, Bain & Co.  
-**2024 – 2025**
+### Boehringer Ingelheim — Quantitative Modelling, Supply Chain Optimisation
 
-- Participated in insight and networking events across **London, Frankfurt, Paris, and Madrid**, gaining exposure to different approaches in **markets, advisory, and strategy**.
+**Shanghai, China — July 2025 – September 2025**
+
+* Built a **dynamic Monte Carlo optimisation model** with inventory constraints (reorder intervals, minimum order quantities, storage limits).
+* Reduced projected expiry costs by **over 50%** through stochastic inventory optimization.
 
 ---
 
 ## Trading & Competitions
 
-### IMC Trading – Prosperity3 Trading Competition  
-**Apr 2025**
+### IMC Trading — Prosperity4 & Prosperity3
 
-- **3rd in Spain** and **top 2%** globally among **12,620+ teams**.  
-- Developed and optimized trading strategies using **statistical modeling, game theory, and object-oriented Python**.
+**Barcelona, Spain — April 2025 – April 2026**
 
-### UBS EMEA Invitational Trading Competition  
-**Zurich — Oct 2024**
+* **2026:** **1st in Spain**, **29th / 18,800+ teams globally**
+* **2025:** **3rd in Spain**, **Top 2% globally**
+* Led algorithmic trading strategy using **exploratory data analysis** to identify **mean-reversion signals via trend + noise decomposition**.
 
-- Ranked **top 10** out of 130+ participants from leading EMEA universities.  
-- Gained hands-on experience with **execution under pressure and P&L-driven decision-making**.
+### Goldman Sachs — FICC & Equities Trading Academy
 
-### Harvard Business School – Business Fundamentals (Virtual)  
-**Aug 2025 – Oct 2025**
+**London, United Kingdom — October 2025 – November 2025**
 
-- Awarded a **full merit-based Banco Santander scholarship** (approx. **3% acceptance rate**).  
-- Completed a 3-month program covering **financial analysis, strategy, and organizational behavior**.
+* Developed a **bearish ADBE options strategy via put spread**, forecasting AI-driven multiple compression from **21x to 14–15x P/E** and **35% downside** over a six-month horizon.
+* The thesis **materialized within the projected timeframe**.
+
+### UBS — EMEA Invitational Trading Competition
+
+**Zurich, Switzerland — October 2024**
+
+* Ranked **Top 10 / 130+ participants** on the sell-side track.
+* Generated **$250K+ commission across 29 trades**, the **2nd-highest result** in the event.
+
+### Harvard Business School — Business Fundamentals
+
+**Barcelona, Spain — August 2025 – October 2025**
+
+* Awarded a **full merit-based Banco Santander scholarship** (approximately **2% acceptance rate**).
+* Completed intensive coursework in **finance and negotiation**.
 
 ---
 
 ## Education
 
-### Universitat Pompeu Fabra (UPF), Barcelona, Spain  
-**Mathematical Engineering in Data Science — Sept 2023 – June 2027**
+### Universitat Pompeu Fabra (UPF), Barcelona, Spain
 
-- **Class of 2027 President**  
-- **Current GPA:** 8.2 / 10  
-- **Highest Honors Distinctions**:  
-  - ICT — **1st / 305**  
-  - Networks — **1st / 204**  
-  - Network Science — **1st / 50**
+**Bachelor’s Degree in Mathematical Engineering in Data Science — September 2023 – June 2027**
 
-### University of Texas at Austin, Austin, TX  
-**Mathematical Engineering (Exchange) — Jan 2026 – May 2026**
+* **GPA:** **8.5 / 10** (**Top 5%**)
+* **Class President**
+* **Highest Honors:**
 
-- Selected as one of only **two students** for the UPF–UT Austin exchange program.
+  * ICT — **1st / 305**
+  * Networks — **1st / 204**
+  * Network Science — **1st / 50**
 
-### International Baccalaureate – The American School Foundation (ASF), Mexico City  
-**Aug 2020 – May 2023**
+### The University of Texas at Austin, Austin, USA
 
-- **IB Score:** 38 / 45 | **3rd** in the class of 2023  
-- Bilingual Program: **English A** & **Spanish A**  
-- Relevant coursework:  
-  - Mathematics AA HL (6/7)  
-  - Economics HL (6/7)  
-  - Physics HL (6/7)  
-  - Chemistry SL (6/7)
+**Exchange Programme — Mathematics & Data Science — January 2026 – May 2026**
+
+* **A+** in Actuarial Modeling, Predictive Analytics, and Data Science Lab.
 
 ---
 
-## Selected Projects
+## Selected Project
 
-### Roman Gladiator RPG (C++ Text-Based Game)
+### Roman Gladiator RPG (C++)
 
-**Type:** RPG game set in Rome, 50 B.C.  
-**Technologies:** C/C++ (and game assets such as `726969__sadiquecat__ukulele-old-_-os_-g-fret-7-zoomh5xy.wav`)
+**Technologies:** C++, game systems, save/load architecture
 
-- Narrative-driven progression from an unknown gladiator to a challenger of **Lucius Cornelius Sulla** in a final 1v1 fight.  
-- Multiple difficulty levels: **Medium** (with revives) and **Legendary**.  
-- **Character selection** with distinct stats and identities:  
-  - *Arnaus Decimus Meridius*  
-  - *Ericus Carpophorus*  
-  - *Paullus Acilius Glabrio*  
-- Rich combat system including:  
-  - HP, Attack, Defense, Weapons (Shield, Bow & Arrow, Invisible Knife with cooldowns)  
-  - Character skills: *Deceit Attack, Agile Attack, Berserk, Regenerate, Time Strike*  
-  - Enemy skills: *Backstab, Rage* and enemy-specific abilities such as *Brutus Gambit, Ritual Fury, Poisonous Strike, Dictator's Wrath*  
-- In-game information system showing:  
-  - The **cost and impact** of each decision.  
-  - Current **character stats and skill descriptions**.  
-- **Save & Load** functionality to persist progress.
+* Built a narrative-driven RPG set in **Rome, 50 B.C.**
+* Implemented a complete combat engine with:
 
-> Repository: (https://github.com/EricAmargantGutierrez/EDA2)
+  * HP, attack, defense, weapons, cooldown systems
+  * Character-specific abilities and enemy AI
+  * Multiple difficulty modes and save/load functionality
+* Designed the game architecture using **object-oriented C++**.
+
+Repository: **https://github.com/EricAmargantGutierrez/EDA2**
 
 ---
 
-## Upcoming Research & Trading Projects
+## Leadership & Organisations
 
-These are projects I plan to build and document, primarily in **Python** and **MATLAB**, with a strong emphasis on **markets and trading**:
+### Pompeu Engineering Hub (EHub) | InterHack 2026
 
-### 1. Commodity–Equity Correlation Engine (GS AC Trading–Inspired Project)
+**Co-Founder | Head of Sponsorships & Fundraising — February 2024 – Present**
 
-- Study **dynamic correlations between commodities (e.g., Silver)** and **U.S. equities / sectors**.  
-- Explore trade ideas such as **ADBE short / Silver long**, motivated by structural and macro relationships.  
-- Implement rolling-window correlations, regime detection, and event-based analysis.
+* Founded and scaled **UPF’s first engineering club**.
+* Raised **€40K+ in sponsorships** from companies including **Qualcomm, Damm, and Inibsa**.
+* Led sponsor relations, pricing strategy, and managed sponsors’ **Board of Directors on-site** during InterHack.
 
-### 2. Multi-Asset Volatility Forecasting via Bayesian Updating
+### Pompeu Finance Society
 
-- Develop a framework for forecasting short-term volatility across **FX, commodities, and equities**.  
-- Use **Bayesian updating, Kalman filters, and Monte Carlo** to incorporate new information in real-time.  
-- Benchmark against realized volatility and simple GARCH-style models.
+**PCM & PCF Board Member — October 2024 – January 2026**
 
-### 3. Reinforcement Learning Market-Making Simulator
-
-- Build a **market-making environment** with a simplified order book, inventory limits, and transaction costs.  
-- Train agents to balance **spread capture, inventory risk, and adverse selection**.  
-- Focus on interpretability and risk-aware policy behavior instead of pure reward maximization.
-
-### 4. Statistical Arbitrage & Mean-Reversion Engine
-
-- Identify **mean-reverting pairs** or baskets via cointegration tests (Engle–Granger, Johansen).  
-- Implement a **backtesting framework** with transaction costs, drawdown controls, and stop-outs.  
-- Analyze performance under different volatility and correlation regimes.
-
----
-
-## Leadership & Involvement
-
-- **180 Degrees Consulting UPF – Head of Treasury & Fundraising**  
-  - Founded the UPF branch of the world’s largest student consultancy.  
-  - Manage financial strategy and logistics for pro bono projects with NGOs.
-
-- **Pompeu Consulting – Finance & Management Divisions**  
-  - Co-organized UPF’s first **AmplifyME** simulation with Morgan Stanley & UBS (120+ participants).  
-  - Achieved **2nd in Buy-Side** and **3rd in Sell-Side** total returns.
-
-- **Pompeu Engineering Hub – Co-Founder**  
-  - Created and grew a hub connecting students with major tech companies.  
-  - Coordinated events with **Oracle, Revolut, JetBrains, GDG**, among others.
-
-- **KDD 2024 – Lead Student Volunteer**  
-  - Oversaw tracks in **finance, network science, and blockchain** at one of the world’s leading data science conferences.
-
-- **First Lego League – Judge & Arbitrator**  
-  - Evaluated STEM projects on originality, feasibility, technical complexity, and performance.
+* Organized **UPF’s first trading simulation** with **AmplifyME and Morgan Stanley**.
+* Ranked **2nd Buy-Side** and **3rd Sell-Side** among **120+ participants**.
 
 ---
 
 ## Distinctions
 
-- **Fundación Princesa de Girona – “Generación Talento” Scholarship**  
-- **UCMAS Catalonia Mathematics Tournament – 1st Place**  
-  - Out of 3000+ participants; contributed to Hamelin Laie IS ranking 2nd in regional math standings.  
-- **Football & Leadership – Cabrera U.E.**  
-  - Team Captain (2017–2021), promoted to U14 at age 10.  
-  - 2× League winner, 7× Team top scorer, 2× League & Club top scorer.
+* **1st / 3,000+** — UCMAS Catalonia Mathematics Tournament
+* **Fundación Princesa de Girona — Talent Generation Scholarship**
 
 ---
 
 ## Skills
 
-**Languages:**  
-- English, Spanish, Catalan (Fluent)  
-- Mandarin Chinese (Limited working proficiency)
+**Languages**
 
-**Technical:**  
-- **Programming:** Python, C/C++, MATLAB  
-- **Data & Visualization:** Power BI, Excel  
-- **Finance & Standards:** FpML (XML), ISDA CDM  
+* Spanish (Native)
+* English (Native)
+* Catalan (Native)
+* Mandarin Chinese (HSK4)
+
+**Technical**
+
+* Python (NumPy, pandas, SciPy)
+* C++
+* SQL
+* MATLAB
+* Bloomberg Terminal
+* Excel
+* FpML
+* ISDA CDM
 
 ---
 
